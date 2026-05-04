@@ -8,7 +8,7 @@ grafo = {
     'D': [],
     'E': [],
     'F': [],
-    'G': []
+    'G': [
 }
 
 def busqueda_anchura(grafo, inicio, objetivo):
